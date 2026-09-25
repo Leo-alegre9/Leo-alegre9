@@ -39,29 +39,50 @@ Me dedico al desarrollo **full stack** y disfruto convertir necesidades reales e
 
 </div>
 
-## 🚀 Proyectos destacados
+---
 
-### 🖥️ Centro Informático Regional
+## 🏆 Proyectos destacados
 
-Sitio web para mostrar productos de informática, electrodomésticos, muebles y equipamiento comercial. Organiza un catálogo amplio en categorías y facilita que los clientes encuentren lo que buscan.
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🖥️ Centro Informático Regional</h3>
+      <img alt="Sitio web" src="https://img.shields.io/badge/Sitio-Web-3b82f6?style=flat-square" />
+      <img alt="Catálogo" src="https://img.shields.io/badge/Cat%C3%A1logo-Productos-16a34a?style=flat-square" />
+      <p>Sitio publicado con un catálogo de informática, electrodomésticos, muebles y equipamiento comercial.</p>
+      <a href="https://centroinformaticoregional.com/">🌐 Ver sitio</a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🔧 Servicio técnico informático</h3>
+      <img alt="Sistema" src="https://img.shields.io/badge/Sistema-Gesti%C3%B3n-6366f1?style=flat-square" />
+      <img alt="Servicio técnico" src="https://img.shields.io/badge/Servicio-T%C3%A9cnico-0891b2?style=flat-square" />
+      <p>Sistema desarrollado para la gestión de un servicio técnico informático.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔥 Gallo Negro</h3>
+      <img alt="Sitio institucional" src="https://img.shields.io/badge/Sitio-Institucional-3b82f6?style=flat-square" />
+      <img alt="Catálogo autogestionable" src="https://img.shields.io/badge/Cat%C3%A1logo-Autogestionable-16a34a?style=flat-square" />
+      <p>Página institucional que presenta el negocio y permite administrar su catálogo de productos.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🏥 Clínica Sarmiento</h3>
+      <img alt="Aplicación web" src="https://img.shields.io/badge/Aplicaci%C3%B3n-Web-6366f1?style=flat-square" />
+      <img alt="Salud" src="https://img.shields.io/badge/Sector-Salud-0891b2?style=flat-square" />
+      <p>Aplicación web orientada a las necesidades de gestión de una clínica.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>📋 Gestor Personal</h3>
+      <img alt="Productividad" src="https://img.shields.io/badge/Enfoque-Productividad-6366f1?style=flat-square" />
+      <p>Aplicación para organizar información y tareas personales en un mismo lugar.</p>
+    </td>
+  </tr>
+</table>
 
-**Proyecto publicado:** [visitar Centro Informático Regional ↗](https://centroinformaticoregional.com/)
-
-### 🔧 Sistema de servicio técnico informático
-
-Sistema desarrollado para la gestión de un servicio técnico informático.
-
-### 🔥 Gallo Negro
-
-Página web institucional con un **catálogo autogestionable**. Combina la presentación del negocio con una forma práctica de administrar y exhibir sus productos.
-
-### 🏥 Clínica Sarmiento
-
-Aplicación web orientada al ámbito de la salud, desarrollada para responder a necesidades de gestión de una clínica.
-
-### 📋 Gestor Personal
-
-Aplicación para organizar información y tareas personales en un mismo lugar.
+---
 
 ## 🎓 Formación
 
