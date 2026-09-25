@@ -7,7 +7,6 @@
 Estudiante de **Sistemas de Información** y **Ciberdefensa**. Desarrollo aplicaciones web con Laravel, React, TypeScript y MySQL.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Leo--alegre9-181717?style=flat-square&logo=github)](https://github.com/Leo-alegre9)
-![Visitas al perfil](https://komarev.com/ghpvc/?username=Leo-alegre9&style=flat-square&color=0e75b6&label=Visitas+al+perfil)
 
 </div>
 
@@ -42,15 +41,27 @@ Me dedico al desarrollo **full stack** y disfruto convertir necesidades reales e
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción |
-| --- | --- |
-| **Clínica Sarmiento** | Proyecto de aplicación web orientada al ámbito de la salud. |
-| **Gallo Negro** | Página web institucional con catálogo autogestionable. |
-| **[Centro Informático Regional](https://centroinformaticoregional.com/)** | Sitio web con catálogo de informática, electrodomésticos, muebles y equipamiento comercial. [Ver sitio ↗](https://centroinformaticoregional.com/) |
-| **[Servicio técnico — Centro Informático Regional](https://centroinformaticoregional.com/servicio-tecnico)** | Sección para presentar los servicios de mantenimiento, diagnóstico y reparación de equipos, soporte e instalación de redes, con acceso a solicitud de asistencia. [Ver sección ↗](https://centroinformaticoregional.com/servicio-tecnico) |
-| **Gestor Personal** | Aplicación para organizar información y tareas personales. |
+### 🖥️ Centro Informático Regional
 
-Agregaré enlaces a otros repositorios y demos cuando estén publicados.
+Sitio web para mostrar productos de informática, electrodomésticos, muebles y equipamiento comercial. Organiza un catálogo amplio en categorías y facilita que los clientes encuentren lo que buscan.
+
+**Proyecto publicado:** [visitar Centro Informático Regional ↗](https://centroinformaticoregional.com/)
+
+### 🔧 Sistema de servicio técnico informático
+
+Sistema desarrollado para la gestión de un servicio técnico informático.
+
+### 🔥 Gallo Negro
+
+Página web institucional con un **catálogo autogestionable**. Combina la presentación del negocio con una forma práctica de administrar y exhibir sus productos.
+
+### 🏥 Clínica Sarmiento
+
+Aplicación web orientada al ámbito de la salud, desarrollada para responder a necesidades de gestión de una clínica.
+
+### 📋 Gestor Personal
+
+Aplicación para organizar información y tareas personales en un mismo lugar.
 
 ## 🎓 Formación
 
